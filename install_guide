@@ -1,0 +1,7 @@
+# How to install Docker
+Installation of Docker varies greatly depending on the operating system you're using. But it's universally simple across the board.
+
+Docker runs flawlessly on all three major platfors, Mac, Windows, and Linux.Among the three, the installation process on Mac is the easiest, so we'll start there.
+
+# How to Install Docker on macOS
+On a mac, all you have to do is navigate to the official [download page](https://www.docker.com/products/docker-desktop/)
