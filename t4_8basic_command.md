@@ -14,9 +14,9 @@
 
 # Q) what is the difference b/w container vs image?
 Mostly pepole use those terms interchangeably but actually there is a fine difference b/w the two.
-- Image is just the part of the container runtime.So the 
+- Image is just the part of the container runtime. So the 
 container is the running environments for an image.
-- Container is a running environment for Image.Container has its own abstraction of an operating system including the file system and the environment.
+- Container is a running environment for Image. Container has its own abstraction of an operating system including the file system and the environment.
 
 # Q) what is tag?
 - Tag is basically the version of the image.
